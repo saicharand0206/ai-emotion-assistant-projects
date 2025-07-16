@@ -1,11 +1,12 @@
-# AI Personal Assistant (Basic Python CLI)
+# Emotion Detection from User Input (NLP)
 
-A simple command-line based AI assistant that greets the user and can perform basic actions like telling time and opening websites.
+This project allows users to type a sentence, and the system detects their emotion as Positive, Negative, or Neutral using VADER sentiment analysis.
 
 ## How to Use
-- Open `ai_assistant.ipynb` in Google Colab
+- Open `emotion_detection.ipynb` in Google Colab
 - Run the notebook
-- Interact with the assistant using text input
+- Enter your message when prompted
+- The output will classify the emotion
 
 ## Author
 Sai Charan Dantu
