@@ -1,2 +1,11 @@
-# ai-emotion-assistant-projects
-Two beginner-friendly AI projects using Python and NLP: 1) Emotion Detection from user input using VADER, and 2) A simple AI Personal Assistant for terminal commands. Compatible with Google Colab.
+# AI Personal Assistant (Basic Python CLI)
+
+A simple command-line based AI assistant that greets the user and can perform basic actions like telling time and opening websites.
+
+## How to Use
+- Open `ai_assistant.ipynb` in Google Colab
+- Run the notebook
+- Interact with the assistant using text input
+
+## Author
+Sai Charan Dantu
